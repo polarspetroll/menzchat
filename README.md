@@ -21,3 +21,5 @@ $./Server.rb
 **clientside** :
 $chmod +x Client.rb
 $./Client.rb
+# tor
+you also can use **tor** for better privacy.
