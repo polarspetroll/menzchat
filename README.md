@@ -12,6 +12,9 @@ socket (preinstalled with ruby)
 # usage 
 **serverside** : 
 $chmod +x Server.rb
+
+
+
 $./Server.rb
 **clientside** :
 $chmod +x Client.rb
