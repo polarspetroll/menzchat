@@ -1,6 +1,6 @@
 # menzchat
-![Alt text](screenshot.png?raw=true "Optional Title")
 # simple , fast and cool client-server messaging script.
+![Alt text](screenshot.png?raw=true "Optional Title")
 # How it Works 
 there is 2 files , first one is server.rb which is clearly the serverside program. this program will starts the service on your selected port over **tcp** . the protocol could be changed but i recommend to dont use **udp**.
 the second file is for client side user . when you execute that it will asks you for username and password (if required).
