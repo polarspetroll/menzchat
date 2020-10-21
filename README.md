@@ -7,15 +7,17 @@ all done!
 # public usage 
 if you are trying to chat over **WAN** you need to put the servers public ip for server address. i recommend to use free and paid port forwarding services such as **ngrok**,**portmap**,**telebit** and ...
 # requirements
-colorize ($sudo gem install colorize)
-socket (preinstalled with ruby)
+**colorize** ($sudo gem install colorize)
+
+
+**socket** (preinstalled with ruby)
 # usage 
 **serverside** : 
 $chmod +x Server.rb
-
-
-
 $./Server.rb
+
+
+
 **clientside** :
 $chmod +x Client.rb
 $./Client.rb
