@@ -15,12 +15,13 @@ if you are trying to chat over **WAN** you need to put the servers public ip for
 # usage 
 **serverside** : 
 $chmod +x Server.rb
-$./Server.rb
 
+$./Server.rb
 
 
 **clientside** :
 $chmod +x Client.rb
+
 $./Client.rb
 # tor
 you also can use **tor** for better privacy.
