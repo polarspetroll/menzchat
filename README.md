@@ -15,6 +15,10 @@ $ gem install colorize
 
 **socket** (preinstalled with ruby)
 ## usage 
+**clone**:
+
+``bash
+$ git clone https://github.com/polarspetroll/menzchat.git
 **serverside** : 
 ```bash
 $chmod +x Server.rb
