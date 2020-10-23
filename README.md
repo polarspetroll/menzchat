@@ -1,18 +1,18 @@
 
-# H1 menzchat. simple , fast and cool client-server messaging script.
+# menzchat. simple , fast and cool client-server messaging script.
 ![Alt text](screenshot.png?raw=true "Optional Title")
-# How it Works 
+## How it Works 
 there is 2 files , first one is server.rb which is clearly the serverside program. this program will starts the service on your selected port over **tcp** . the protocol could be changed but i recommend to dont use **udp**.
 the second file is for client side user . when you execute that it will asks you for username and password (if required).
 all done!
-# public usage 
+## public usage 
 if you are trying to chat over **WAN** you need to put the servers public ip for server address. i recommend to use free and paid port forwarding services such as **ngrok**,**portmap**,**telebit** and ...
-# requirements
+## requirements
 **colorize** ($ gem install colorize)
 
 
 **socket** (preinstalled with ruby)
-# usage 
+## usage 
 **serverside** : 
 
 $chmod +x Server.rb
@@ -25,5 +25,5 @@ $./Server.rb
 $chmod +x Client.rb
 
 $./Client.rb
-# tor
+### tor
 you also can use **tor** for better privacy.
