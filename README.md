@@ -14,12 +14,14 @@ if you are trying to chat over **WAN** you need to put the servers public ip for
 **socket** (preinstalled with ruby)
 # usage 
 **serverside** : 
+
 $chmod +x Server.rb
 
 $./Server.rb
 
 
 **clientside** :
+
 $chmod +x Client.rb
 
 $./Client.rb
