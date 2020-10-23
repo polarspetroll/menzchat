@@ -17,7 +17,7 @@ $ gem install colorize
 ## usage 
 **clone**:
 
-``bash
+``
 $ git clone https://github.com/polarspetroll/menzchat.git
 ``
 
