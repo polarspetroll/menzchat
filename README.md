@@ -6,7 +6,7 @@ there is 2 files , first one is server.rb which is clearly the serverside progra
 the second file is for client side user . when you execute that it will asks you for username and password (if required).
 all done!
 ## public usage 
-if you are trying to chat over **WAN** you need to put the servers public ip for server address. i recommend to use free and paid port forwarding services such as **ngrok**,**portmap**,**telebit** and ...
+if you are trying to chat over **WAN** you need to put the servers public ip for server address. i recommend you to use free and paid port forwarding services such as **ngrok**,**portmap**,**telebit** and ...
 ## requirements
 **colorize**: 
 ```bash 
